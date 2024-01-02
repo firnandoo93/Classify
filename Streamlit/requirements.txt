@@ -2,4 +2,4 @@ streamlit
 joblib
 nltk
 scikit-learn
-streamlit_lottie
+st_lottie
